@@ -38,3 +38,25 @@ print(result)
 
 
 count = []
+
+x = int(input("1일차 턱걸이 횟수 >>>"))
+count.append(x)
+x = int(input("2일차 턱걸이 횟수 >>>"))
+count.append(x)
+x = int(input("3일차 턱걸이 횟수 >>>"))
+count.append(x)
+x = int(input("4일차 턱걸이 횟수 >>>"))
+count.append(x)
+x = int(input("5일차 턱걸이 횟수 >>>"))
+count.append(x)
+x = int(input("6일차 턱걸이 횟수 >>>"))
+count.append(x)
+x = int(input("7일차 턱걸이 횟수 >>>"))
+count.append(x)
+
+total = count[0] + count[1] + count[2] + count[3] + count[4] + count[5] + count[6]
+
+# 평균 구하기 
+avg = total /7
+# 실수형이 아닌 정수형으로 출력되기 위해 int 포함 
+print(int(avg))
