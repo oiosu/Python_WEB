@@ -2,7 +2,7 @@
 
 ##### ◼ 가상환경을 사용하는 이유 
 
-> ![](../imges/02_PYTHON 가상환경/image-20230130002706503.png)
+> ![image](https://user-images.githubusercontent.com/99783474/216035628-da18610b-6cb7-4173-8152-21d302895fd4.png)
 >
 > * ##### 패키지 : 파이썬 소스 파일을 모아 놓은 것 
 
@@ -32,7 +32,7 @@ VENV
 >      > myvenv\Scripts\activate
 >      > ```
 >      >
->      > ![image-20230130003457483](../imges/02_PYTHON 가상환경/image-20230130003457483.png)
+>      > !![image](https://user-images.githubusercontent.com/99783474/216035667-65b6a549-ea35-47ea-b9cd-8e39df608aad.png)
 >
 >    * 📁 Scripts > deactivate 
 >
@@ -52,7 +52,7 @@ VENV
 >    pip install requests
 >    ```
 >
->    ![image-20230130003659178](../imges/02_PYTHON 가상환경/image-20230130003659178.png)
+>    ![image](https://user-images.githubusercontent.com/99783474/216035705-1092f13a-207e-40e1-86f5-9f10ac117dd3.png)
 
 
 
